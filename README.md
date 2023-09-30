@@ -9,6 +9,9 @@ Nex uses several sources in order to utilize Databeses to connect with third par
   *Tracking supported
  *Novelupdates
  *Scribblehub
+ 1. First list item
+   - First nested list item
+     - Second nested list item
 # SOURCES
  gogoanime
  aniwave(formerly 9anime)
