@@ -3,12 +3,12 @@ Nex is a multi free anime, manga, novels, asian drama app to stream,read and dow
 # description and features
 Nex uses several sources in order to utilize Databeses to connect with third party streaming services.
 # DATABASES
- Anilist
-  with ability to sync data
- Myanimelist
-  with ability to sync data
- Novelupdates
- Scribblehub
+ *Anilist
+  *Tracking supported
+ *Myanimelist
+  *Tracking supported
+ *Novelupdates
+ *Scribblehub
 # SOURCES
  gogoanime
  aniwave(formerly 9anime)
