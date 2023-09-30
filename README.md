@@ -1,5 +1,5 @@
 # NEX-Android
-Nex is a multi free anime, manga, novels, asian drama app to stream,read and download for android
+Nex is a free anime, manga, novels, asian drama app to stream,read and download for android
 ### description and features
 Nex uses several sources in order to utilize Databeses to connect with third party streaming services.
 
@@ -36,6 +36,8 @@ Nex uses several sources in order to utilize Databeses to connect with third par
   * Asian drama section
   * Other
 
+### NOTE
+we have no affiliation with any source, database site or third party streaming services mentioned above.
 
  
  
