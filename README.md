@@ -1,9 +1,9 @@
 # NEX-Android
 Nex is a multi free anime, manga, novels, asian drama app to stream,read and download for android
-# description and features
+### description and features
 Nex uses several sources in order to utilize Databeses to connect with third party streaming services.
 
-# DATABASES
+### DATABASES
   * Anilist
     * Tracking supported
   * Myanimelist
@@ -11,7 +11,7 @@ Nex uses several sources in order to utilize Databeses to connect with third par
   * Novelupdates
   * Scribblehub
 
-# SOURCES
+### SOURCES
   * gogoanime
   * aniwave(formerly 9anime)
   * aniwatch(formerly zoro.to)
@@ -30,9 +30,9 @@ Nex uses several sources in order to utilize Databeses to connect with third par
   * xemovies
   * anime8 
 
-# Download
+### Download
 
-# Curently working on
+### Curently working on
   * Asian drama section
   * Other
 
