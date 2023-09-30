@@ -26,7 +26,7 @@ Nex uses several sources in order to utilize Databeses to connect with third par
  soup2day
  wcostream
  xemovies
- anime8
+ anime8 
 # Download
 
 # Curently working on
