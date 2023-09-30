@@ -5,9 +5,9 @@ Nex uses several sources in order to utilize Databeses to connect with third par
 
 # DATABASES
  * Anilist
-  * Tracking supported
+   * Tracking supported
  * Myanimelist
-  * Tracking supported
+   * Tracking supported
  * Novelupdates
  * Scribblehub
 
