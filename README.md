@@ -12,24 +12,54 @@ Nex uses several sources in order to utilize Databeses to connect with third par
   * Scribblehub
 
 ### SOURCES
-  * gogoanime
-  * aniwave(formerly 9anime)
-  * aniwatch(formerly zoro.to)
-  * anime8
-  * dreamsub
-  * fdrama
-  * fmovies
-  * watchcartoononline
-  * gomovies
-  * kissasian
-  * kimcartoon
-  * monochinos
-  * movies2watch
-  * soup2day
-  * wcostream
-  * xemovies
-  * anime8 
+  * ANIME
+    * gogoanime
+    * aniwave(formerly 9anime)
+    * aniwatch(formerly zoro.to)
+    * anime8
+    * dreamsub
+    * fdrama
+    * fmovies
+    * watchcartoononline
+    * gomovies
+    * kissasian
+    * kimcartoon
+    * monochinos
+    * movies2watch
+    * soup2day
+    * wcostream
+    * xemovies
+    * anime8 
+  
+  * MANGA
+    * bato
+    * cmreader
+    * 1stkiss
+    * mangafreak
+    * mangakakalot
+    * nhentai
+    * readm
+    * xoxocomics
+    * readcomiconline
+    * comiccastle
+     
+  * NOVEL
+    * daonove
+    * freewennovel
+    * jptml
+    * novelhall
+    * novelonlinefull
+    * stkissnovel
+    * webnovelonline
+    * lightnovel
+    * ranbow
+    * scribble
+    * wuxiaz
 
+  * ASIAN DRAMA
+    work on progress...
+
+     
 ### Download
 
 ### Curently working on
